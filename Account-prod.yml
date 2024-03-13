@@ -4,7 +4,7 @@ build:
 accounts:
   message: "{cipher}d0ddb1dea5d659d9937c029a2d7b6a733c36db0eb211ee97a574f80c7058e8a26ce0b4677b0710394b816ecae59c6b3718174a059ce21086c359b5c6f8f41a732be18450c9aad78536529fa0172bdaff54653f99090b5a64db5b678d5a39b32d"
   contactDetails:
-    name: "Atul Patel  - Developer"
+    name: "Atul Patel Java - Developer"
     email: "{cipher}f81901fdd277737916a54cf34897a3293db3d0836c973c03d064c8202b4a505a69162c07efc98d57258fb3ced1430535"
   onCallSupport:
     - (666) 666-1234

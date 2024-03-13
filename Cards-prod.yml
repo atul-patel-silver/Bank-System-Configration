@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 cards:
-  message: {cipher}d0ddb1dea5d659d9937c029a2d7b6a733c36db0eb211ee97a574f80c7058e8a26ce0b4677b0710394b816ecae59c6b3718174a059ce21086c359b5c6f8f41a732be18450c9aad78536529fa0172bdaff54653f99090b5a64db5b678d5a39b32d"
+  message: "{cipher}d0ddb1dea5d659d9937c029a2d7b6a733c36db0eb211ee97a574f80c7058e8a26ce0b4677b0710394b816ecae59c6b3718174a059ce21086c359b5c6f8f41a732be18450c9aad78536529fa0172bdaff54653f99090b5a64db5b678d5a39b32d"
   contactDetails:
     name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    email: "ajpatel7096@gmail.com"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
