@@ -1,5 +1,5 @@
 build:
-  version: '200000000.0'
+  version: '20000000ddd0.0'
 
 accounts:
   message: "Welcome to SbiBank accounts related local config prod APIs gittttt "
