@@ -4,7 +4,7 @@ build:
 accounts:
   message: "{cipher}84ca7e723a50b2678a74be8d1f6ad4e98fc06ead3c3c37666327fe5037cb23d3a532eb144dfa3417caa667cecf6733acc8239cde4a7af4d981c89b793999d21585122b130d662d84cd82bf323a4786d3aa8925eb1421d64267ec9cb14a156c1a"
   contactDetails:
-    name: "John  - Developer"
+    name: "John bbbb - Developer"
     email: "{cipher}f81901fdd277737916a54cf34897a3293db3d0836c973c03d064c8202b4a505a69162c07efc98d57258fb3ced1430535"
   onCallSupport:
     - (666) 666-1234
